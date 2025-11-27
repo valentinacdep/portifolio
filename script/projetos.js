@@ -4,19 +4,19 @@ async function loadRepos() {
     const projetos = [
         {
             name: "VOVOTINA",
-            description: "Aplicação para o enfrentamento da desvalorização da arte fotográfica no Brasil.",
+            description: "O Vovotina é meu TCC: um aplicativo pensado para ajudar idosos no dia a dia, oferecendo recursos simples, acessíveis e feitos para tornar a rotina deles mais segura e prática.",
             url: "https://github.com/valentinacdep/vovotina-pp",
             langs: ["html", "css", "javascript"]
         },
         {
             name: "Chat best",
-            description: "Plataforma de gestão de aulas, desenvolvida para facilitar a interação entre alunos, professores e pedagogos.",
+            description: "O ChatBest é uma aplicação focada em oferecer um sistema de chat simples, rápido e intuitivo, criado para facilitar a comunicação entre usuários de forma prática e organizada.",
             url: "https://github.com/valentinacdep/chat-best",
             langs: ["html", "css", "javascript"]
         },
         {
             name: "tinamidia",
-            description: "Loja virtual em que é possível visualizar e fazer a compra de diversos produtos e serviços místicos.",
+            description: "O Tinamidia é uma plataforma desenvolvida para facilitar a comunicação e o compartilhamento de conteúdo, reunindo tudo em um ambiente simples, rápido e acessível.",
             url: "https://github.com/valentinacdep/tinamidia",
             langs: ["javascript"]
         }
